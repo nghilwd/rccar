@@ -8,3 +8,4 @@ Pin 5,6: right motor direction, connect directly to L298N pin 2 and 3<br />
 Pin 7,8: left motor direction<br />
 Pin 9: motor right speed pin<br />
 Pin 10: motor left speed pin<br />
+Thanks [The bored robot](https://theboredrobot.com/blogs/blog/simultaneously-reading-two-pwm-signals-from-an-rc-receiver-with-arduino) for the code to read 2 simultaneous pwm signal
