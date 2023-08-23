@@ -1,5 +1,5 @@
 # rccar
-This is a small little project that I do in my free time: A small RC car control with a L298N motor driver and use Flysky GT2 as the transmitter
+This is a small little project that I do in my free time: A small RC car controled with a L298N motor driver and use Flysky GT2 as the transmitter
 
 Pinout (for Arduino Uno):<br />
 Pin 2 : Channel 2 (Throttle)<br />
